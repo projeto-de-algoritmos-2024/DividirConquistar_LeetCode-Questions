@@ -31,51 +31,51 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 Explicação:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao_quest1.png)<br>
+![]()<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest1.png)<br>
+![]()<br>
 
 Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest1.png)<br>
+![]()<br>
 
 ### [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
 
 Explicação:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao_quest2.png)<br>
+![]()<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest2.png)<br>
+![]()<br>
 
 Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case2_quest2.png)<br>
+![]()<br>
 
 Caso 3:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case2_quest2.png)<br>
+![]()<br>
 
 ### [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 
 Explicação:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao1_quest3.png)<br>
+![]()<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest3.png)<br>
+![]()<br>
 
 Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case2_quest3.png)<br>
+![]()<br>
 
 Caso 3:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case3_quest3.png)<br>
+![]()<br>
 
 ## Instalação
 
