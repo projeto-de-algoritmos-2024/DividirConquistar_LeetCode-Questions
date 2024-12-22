@@ -31,51 +31,53 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 Explicação:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Kth_explicacao.png)<br>
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Kth_caso1.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Kth_caso2.png)<br>
 
 ### [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
 
 Explicação:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_explicacao1.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_explicacao2.png)<br>
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_caso1.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_caso2.png)<br>
 
 Caso 3:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_caso3.png)<br>
 
 ### [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 
 Explicação:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_explicacao1.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_explicacao2.png)<br>
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_caso1.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_caso2.png)<br>
 
 Caso 3:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_caso3.png)<br>
 
 ## Instalação
 
