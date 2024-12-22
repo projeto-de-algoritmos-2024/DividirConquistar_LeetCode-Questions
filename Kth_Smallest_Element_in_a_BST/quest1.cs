@@ -1,16 +1,18 @@
 public class Solution {
     public int KthSmallest(TreeNode root, int k) {
-        int InOrderTraversal(TreeNode node, ref int k) {
-            if (node == null) return -1;
-
-            int left = InOrderTraversal(node.left, ref k);
-            if (k == 0) return left; 
-
-            k--;
-            if (k == 0) return node.val;
-
-            return InOrderTraversal(node.right, ref k);
+        int CountNodes(TreeNode node) {
+            if (node == null) return 0;
+            return 1 + CountNodes(node.left) + CountNodes(node.right);
         }
-        return InOrderTraversal(root, ref k);
+        
+        int leftCount = CountNodes(root.left); 
+        
+        if (k <= leftCount) {
+            return KthSmallest(root.left, k);
+        } else if (k == leftCount + 1) {
+            return root.val;
+        } else {
+            return KthSmallest(root.right, k - leftCount - 1);
+        }
     }
 }
