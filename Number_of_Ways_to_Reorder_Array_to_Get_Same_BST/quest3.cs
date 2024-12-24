@@ -14,18 +14,18 @@ public class Solution {
         long CountWays(List<int> nums) {
             if (nums.Count <= 2) return 1;
 
-            List<int> left = new List<int>();
-            List<int> right = new List<int>();
+            List<int> left = new List<int>(); //Divisao
+            List<int> right = new List<int>(); //Divisao
 
-            for (int i = 1; i < nums.Count; i++) {
-                if (nums[i] < nums[0]) left.Add(nums[i]);
-                else right.Add(nums[i]);
+            for (int i = 1; i < nums.Count; i++) { //Divisao
+                if (nums[i] < nums[0]) left.Add(nums[i]); //Divisao
+                else right.Add(nums[i]); //Divisao
             }
 
-            long leftWays = CountWays(left) % MOD;
-            long rightWays = CountWays(right) % MOD;
+            long leftWays = CountWays(left) % MOD; //Conquista
+            long rightWays = CountWays(right) % MOD; //Conquista
 
-            return (pascal[left.Count + right.Count][left.Count] * leftWays % MOD * rightWays % MOD) % MOD;
+            return (pascal[left.Count + right.Count][left.Count] * leftWays % MOD * rightWays % MOD) % MOD; //Combinacao
         }
 
         return (int)((CountWays(nums.ToList()) - 1 + MOD) % MOD);
